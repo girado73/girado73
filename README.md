@@ -19,4 +19,3 @@ I am a Programmer from Germany/Saxony. <br>
 3. Email
 
 😄 Pronouns: he/him <br>
-⚡ Fun fact: Most of the time when coding a project, I try to rewrite the logic in Haskell and make fun of how few lines it takes me
