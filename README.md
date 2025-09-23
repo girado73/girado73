@@ -10,10 +10,10 @@ I am a CS student from Germany/Saxony. <br>
 
 💻 When coding, I use my Mac or my Endeavor OS Linux.
 
-🔭 I’m currently working on small personal projects <br>
-🧳 I am currently working as a Web Developer with PHP and React Native <br>
+🔭 I’m currently developing on small personal projects <br>
+🧳 I am working as a Web-Dev with PHP and React Native <br>
 👯 I’m looking to collaborate on an open source project in the future <br>
-🐳 I purely develop inside of Docker Containers for maximum portability <br>
+🐳 Trying to develop inside of Docker Containers at all times for maximum portability <br>
 
 📫 How to reach me:
   1. Discord derpassatfahrer
